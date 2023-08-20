@@ -14,3 +14,4 @@ Elrisson Moura - Apaixonado por tecnologia, dedicado no que faço, estudante de 
 
 ### E-mail para contato: elrisson@hotmail.com
 
+![Snake animation](https://github.com/Elrissonjr/Elrissonjr/blob/output/github-contribution-grid-snake.svg)
