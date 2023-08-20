@@ -12,4 +12,4 @@
 Elrisson Moura - Apaixonado por tecnologia, dedicado no que faço, estudante de Análise e Desenvolvimento de Sistemas, buscando constantemente conhecimento e soluções inovadoras. Inspirar outros com a minha determinação e contribui para um mundo mais conectado. Amo fazer coisas novas!
 
 ### E-mail para contato: elrisson@hotmail.com
-![Snake animation](https://github.com/rafaballerini2/elrissonjr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Elrissonjr/Elrissonjr/blob/output/github-contribution-grid-snake.svg)
